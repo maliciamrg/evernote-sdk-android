@@ -34,3 +34,8 @@ local.properties
 proguard-project.txt
 .DS_Store
 .tmp
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
